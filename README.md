@@ -1,3 +1,13 @@
+Projeto Pokédex, desenvolvido com React e requisição em API.
+Projeto totalmente responsivo MOBILE
+
+![image](https://github.com/professorjonathan/pokedex_react/assets/115835116/c73dad34-b4c5-4d8c-8bfd-de3981ae176a)
+![image](https://github.com/professorjonathan/pokedex_react/assets/115835116/3c00cf9b-5dda-4007-8ddf-cb87e997d043)
+![image](https://github.com/professorjonathan/pokedex_react/assets/115835116/59bad3c7-aff2-4475-bd78-d219813284f0)
+![image](https://github.com/professorjonathan/pokedex_react/assets/115835116/5d8bedfc-7a55-4560-8808-d02ec63fd588)
+![image](https://github.com/professorjonathan/pokedex_react/assets/115835116/be16faae-b01f-43cc-9b4f-56f9e3e45073)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
